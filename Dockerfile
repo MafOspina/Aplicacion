@@ -1,6 +1,6 @@
 FROM node:16.17.0
 
-COPY . /home/app
+COPY . /app
 
 EXPOSE 8089
 
